@@ -1,4 +1,4 @@
-# todo-kerem
+# todo-kerem Uygulaması React Native
 
 • liste ekleme, silme
     
